@@ -1,0 +1,17 @@
+{
+  "name": "SPI85",
+  "keywords": "communication, spi",
+  "description": "Library to work with attiny85/84",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/neimar2009/SPI85"
+  },
+  "version": "1.0.1",
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "attiny85",
+    "attiny84"
+  ]
+}
